@@ -66,5 +66,5 @@ def test_factorial_large_input():
     # Test the factorial of 50 (a large number)
     assert factorial(50) == 30414093201713378043612608166064768844377641568960512000000000000
 
-if __name_ _== "__main__":
+if __name__== "__main__":
     unittest.main()
